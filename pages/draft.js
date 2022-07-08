@@ -10,8 +10,8 @@ export default function Draft() {
           </h3>
           <p className="text-center text-gray-500">
             {" "}
-            We're glad to have you here! You can start with a quick tour on how
-            to learn with Slang or jump right in to explore it yourself.
+            We&apos;re glad to have you here! You can start with a quick tour on
+            how to learn with Slang or jump right in to explore it yourself.
           </p>
         </div>
         <div className="py-8">
